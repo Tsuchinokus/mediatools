@@ -1,5 +1,5 @@
 # mediatools
-Media information and validation tools for [Philomena](https://github.com/derpibooru/philomena).
+Fork of Media information and validation tools from [Philomena](https://github.com/derpibooru/philomena) to use in [Tsuchinokus](https://tsuchinokus.org).
 
 ## Usage
 ```
